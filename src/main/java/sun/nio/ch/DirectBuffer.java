@@ -1,7 +1,7 @@
 package sun.nio.ch;
 
 /**
- * Stub for JDK internal ckass sun.nio.ch.DirectBuffer.
+ * Stub for JDK internal class sun.nio.ch.DirectBuffer.
  *
  * - When crossing compiling for Java SE 7 and 8, this stub class bypasses compiler sun-api
  *   warnings.
